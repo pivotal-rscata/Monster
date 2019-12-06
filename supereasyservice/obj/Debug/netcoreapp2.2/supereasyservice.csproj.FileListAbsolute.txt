@@ -1,0 +1,14 @@
+C:\Users\robsc\code\supereasyservice\bin\Debug\netcoreapp2.2\supereasyservice.deps.json
+C:\Users\robsc\code\supereasyservice\bin\Debug\netcoreapp2.2\supereasyservice.runtimeconfig.json
+C:\Users\robsc\code\supereasyservice\bin\Debug\netcoreapp2.2\supereasyservice.runtimeconfig.dev.json
+C:\Users\robsc\code\supereasyservice\bin\Debug\netcoreapp2.2\supereasyservice.dll
+C:\Users\robsc\code\supereasyservice\bin\Debug\netcoreapp2.2\supereasyservice.pdb
+C:\Users\robsc\code\supereasyservice\obj\Debug\netcoreapp2.2\supereasyservice.csprojAssemblyReference.cache
+C:\Users\robsc\code\supereasyservice\obj\Debug\netcoreapp2.2\supereasyservice.csproj.CoreCompileInputs.cache
+C:\Users\robsc\code\supereasyservice\obj\Debug\netcoreapp2.2\supereasyservice.RazorAssemblyInfo.cache
+C:\Users\robsc\code\supereasyservice\obj\Debug\netcoreapp2.2\supereasyservice.RazorAssemblyInfo.cs
+C:\Users\robsc\code\supereasyservice\obj\Debug\netcoreapp2.2\supereasyservice.AssemblyInfoInputs.cache
+C:\Users\robsc\code\supereasyservice\obj\Debug\netcoreapp2.2\supereasyservice.AssemblyInfo.cs
+C:\Users\robsc\code\supereasyservice\obj\Debug\netcoreapp2.2\supereasyservice.RazorTargetAssemblyInfo.cache
+C:\Users\robsc\code\supereasyservice\obj\Debug\netcoreapp2.2\supereasyservice.dll
+C:\Users\robsc\code\supereasyservice\obj\Debug\netcoreapp2.2\supereasyservice.pdb
